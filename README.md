@@ -1,4 +1,6 @@
-# employee-manager Project
+# Employee-Manager-Backend Project
+This project serves all the REST services for managing the employees of a company.
+Uses Quarkus for Java and Postgres as database. 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
